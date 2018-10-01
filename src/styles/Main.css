@@ -1,0 +1,15 @@
+.formContainer{
+    text-align: center;
+    margin: 15px;
+}
+
+.mainContainer{
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.mainContainer li{
+    font-size: 15px;
+}
+
